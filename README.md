@@ -6,7 +6,7 @@ VEMP is a Vagrant Box preloaded with Ubuntu 12.04, Nginx, MySQL, and PHP. Design
 ## Quick Start
 
 * Install [Vagrant](http://vagrantup.com/)
-* Add the box: `vagrant box add vemp https://github.com/seanherron/vemp/blob/master/vemp.box`.
+* Add the box: `vagrant box add vemp https://dl.dropbox.com/u/2382631/vemp.box`.
 * Go in to your site's root directory and create the VM: `vagrant init vemp`.
 * Start things up: `vagrant up`.
 * SSH In: `vagrant ssh`.
